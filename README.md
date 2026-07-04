@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # CodeRace Arena
 
 Project skeleton for CodeRace Arena.
@@ -43,4 +43,4 @@ If a user struggles with a topic, the platform continues providing new questions
 CodeRace Arena is built to help learners develop strong programming skills through consistent practice, honest coding, and continuous improvement. Instead of competing only with others, users also compete with their previous performances, making every challenge an opportunity to grow.
 
 Whether you're a beginner starting your programming journey or a student preparing for coding interviews, CodeRace Arena provides a guided path to **learn, practice, compete, and conquer**.
->>>>>>> 874bbf8abc57ead39793f2156c4e487aff5a1a2e
+
